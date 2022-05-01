@@ -1,0 +1,7 @@
+C:\Users\Carlos Barros\Desktop\Summer Break\Code Challenge\CodeChallange\CodeChallange\bin\Debug\CodeChallange.exe.config
+C:\Users\Carlos Barros\Desktop\Summer Break\Code Challenge\CodeChallange\CodeChallange\bin\Debug\CodeChallange.exe
+C:\Users\Carlos Barros\Desktop\Summer Break\Code Challenge\CodeChallange\CodeChallange\bin\Debug\CodeChallange.pdb
+C:\Users\Carlos Barros\Desktop\Summer Break\Code Challenge\CodeChallange\CodeChallange\obj\Debug\CodeChallange.csproj.AssemblyReference.cache
+C:\Users\Carlos Barros\Desktop\Summer Break\Code Challenge\CodeChallange\CodeChallange\obj\Debug\CodeChallange.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Barros\Desktop\Summer Break\Code Challenge\CodeChallange\CodeChallange\obj\Debug\CodeChallange.exe
+C:\Users\Carlos Barros\Desktop\Summer Break\Code Challenge\CodeChallange\CodeChallange\obj\Debug\CodeChallange.pdb
